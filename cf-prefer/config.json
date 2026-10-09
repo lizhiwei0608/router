@@ -1,0 +1,16 @@
+{
+  "binary": "./cfst",
+  "ip_file": "ip.txt",
+  "output_dir": "output",
+  "top_n": 10,
+  "port": 443,
+  "threads": 30,
+  "ping_count": 4,
+  "download_count": 20,
+  "download_seconds": 10,
+  "max_latency_ms": 300,
+  "max_loss": 0,
+  "min_speed_mb_s": 1,
+  "test_url": "",
+  "timeout_seconds": 1800
+}
