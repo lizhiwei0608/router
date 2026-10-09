@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+cfst
+cfst.exe
+CloudflareST
+CloudflareST.exe
+ip.txt
+output/
+*.log
